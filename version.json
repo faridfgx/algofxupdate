@@ -1,7 +1,6 @@
-
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/votre-compte/votre-repo/releases/download/v1.1.0/MonApplication-1.1.0.zip",
-  "release_date": "2025-04-10",
-  "notes": "Cette mise à jour inclut :\n- Correction de bugs\n- Améliorations de performance\n- Nouvelles fonctionnalités"
+  "version": "1.0.0",
+  "download_url": "https://www.mediafire.com/file/gu70ckfxtyfeyan/AlgoFX.zip/file",
+  "release_date": "2025-04-12",
+  "notes": "Beta version"
 }

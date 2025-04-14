@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://www.mediafire.com/file/gu70ckfxtyfeyan/AlgoFX.zip/file",
-  "release_date": "2025-04-14",
-  "notes": "✨ New Features\n\nAuto-Update Support: The app now checks for and installs updates automatically.\n\nSplash Screen: Added a splash screen on launch for better user experience.\n\nAutocomplete: Functions and keywords now auto-complete while typing.\n\nNew Syntax Support:\n\nsortir; – Exits from a loop (break in Python).\n\n<> – Now recognized as != in Python.\n\ndiv, mod, racine, puissance – Added to syntax parsing (integer division, modulo, square root, power).\n\npour i de 1 à n pas 2 faire – Added support for step-based for-loops (translated to Python for i in range(1, n+1, 2)).\n\nlire, écrire – Now support alternative forms.\n\npour and its various alternatives now recognized.\n\nCharacter and Boolean Support: char and bool types now handled properly in the syntax.\n\n🔧 Improvements\n\nImproved Template Insertion: Cursor now automatically focuses when inserting a template.\n\nSeparate Syntax Checker: Isolated syntax checker improves error detection and performance.\n\nSyntax Writing Checker: Helps detect and fix syntax writing errors.\n\nClipboard Icons: Refreshed icons for cut, copy, and paste for a better UI.\n\nMore Code Samples: Added a wider range of example code snippets to help users learn by example."
+  "version": "1.1.1",
+  "download_url": "https://www.mediafire.com/file/mh9elys7oxx48my/AlgoFXsetup.exe/file",
+  "release_date": "2025-04-15",
+  "notes": "New Installer."
 }

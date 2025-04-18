@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "download_url": "https://www.mediafire.com/file/mh9elys7oxx48my/AlgoFXsetup.exe/file",
   "release_date": "2025-04-15",
-  "notes": "Now you can open .algo directly by double clicking on them, Drag and drop .algo files on IDE to opens them,New window icon, New Splash screen, Able now to set max excution steps from settings, You can use external console or built in console now"
+  "notes": "Now you can open .algo directly by double clicking on them, Drag and drop .algo files on IDE to opens them,New window icon, New Splash screen, Able now to set max excution steps from settings, You can use external console or built in console now, Fixing wrong Windows 7 installer file"
 }

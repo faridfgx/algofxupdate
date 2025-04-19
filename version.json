@@ -13,6 +13,9 @@
     "You can use parenthesis in conditions now",
     "Syntax coloration can activated or deactivated",
     "Minor fixes on dark theme",
-    "New button to insert For with a step"
+    "New button to insert For with a step",
+    "Correction du non opérateur qui ne fonctionnait pas dans certains cas",
+    "Mise à jour de power en puissance",
+    "Nouveau guide pour l’écriture des algorithmes"
   ]
 }

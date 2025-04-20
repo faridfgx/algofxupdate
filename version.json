@@ -5,6 +5,7 @@
   "notes": [
     "Fixed not compiled corerectly bug when using fin instead of Fin",
     "Fix depricated warning when usinf splash screen",
-    "Correctly extract algorithm name even if not using; after the algorithme name"
+    "Correctly extract algorithm name even if not using; after the algorithme name",
+    "Updated website that show you that you need python and PATH ro run console before download"
   ]
 }

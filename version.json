@@ -6,6 +6,8 @@
     "Fixed a bug where the code did not compile correctly when using 'fin' instead of 'Fin'.",
     "Resolved deprecated warning related to the splash screen.",
     "Improved algorithm name extraction, even when missing a semicolon (';') after the name.",
-    "Updated the website to clearly indicate that Python and the PATH environment variable are required to run the console option before download."
+    "Updated the website to clearly indicate that Python and the PATH environment variable are required to run the console option before download.",
+    "Updating keywords highlighting",
+    "Update code blocks inserting toolbar"
   ]
 }

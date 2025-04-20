@@ -4,6 +4,7 @@
   "release_date": "2025-04-19",
   "notes": [
     "Fixed not compiled corerectly bug when using fin instead of Fin",
-    "Fix depricated warning when usinf splash screen"
+    "Fix depricated warning when usinf splash screen",
+    "Correctly extract algorithm name even if not using; after the algorithme name"
   ]
 }

@@ -3,6 +3,7 @@
   "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_2_0setup.exe/file",
   "release_date": "2025-04-19",
   "notes": [
-    "Fixed not compiled corerectly bug when using fin instead of Fin"
+    "Fixed not compiled corerectly bug when using fin instead of Fin",
+    "Fix depricated warning when usinf splash screen"
   ]
 }

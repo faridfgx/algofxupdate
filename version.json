@@ -3,6 +3,7 @@
   "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_2_0setup.exe/file",
   "release_date": "2025-04-19",
   "notes": [
+    "Improved syntax error detection capabilities.",
     "Fixed a bug where the code did not compile correctly when using 'fin' instead of 'Fin'.",
     "Resolved deprecated warning related to the splash screen.",
     "Improved algorithm name extraction, even when missing a semicolon (';') after the name.",

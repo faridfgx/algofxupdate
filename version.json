@@ -1,14 +1,14 @@
 {
   "version": "1.2.0",
-  "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_2_0setup.exe/file",
-  "release_date": "2025-04-19",
+  "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_3_0setup.exe/file",
+  "release_date": "2025-04-25",
   "notes": [
     "Improved syntax error detection capabilities.",
     "Fixed a bug where the code did not compile correctly when using 'fin' instead of 'Fin'.",
     "Resolved deprecated warning related to the splash screen.",
     "Improved algorithm name extraction, even when missing a semicolon (';') after the name.",
     "Updated the website to clearly indicate that Python and the PATH environment variable are required to run the console option before download.",
-    "Keyword highlighting is being updated for better clarity and style.",
+    "Keywords highlighting is being updated for better clarity and style.",
     "Buttons for inserting code fragments have been updated to a new, enhanced style.",
     "New options available: You can now choose either French or Arabic for syntax error detection.",
     "Improved window size persistence mechanism."

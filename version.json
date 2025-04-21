@@ -7,7 +7,8 @@
     "Resolved deprecated warning related to the splash screen.",
     "Improved algorithm name extraction, even when missing a semicolon (';') after the name.",
     "Updated the website to clearly indicate that Python and the PATH environment variable are required to run the console option before download.",
-    "Updating keywords highlighting",
-    "Update code blocks inserting toolbar"
+    "Keyword highlighting is being updated for better clarity and style.",
+    "Buttons for inserting code fragments have been updated to a new, enhanced style.",
+    "New options available: You can now choose either French or Arabic for syntax error detection."
   ]
 }

@@ -11,6 +11,7 @@
     "Keywords highlighting is being updated for better clarity and style.",
     "Buttons for inserting code fragments have been updated to a new, enhanced style.",
     "New options available: You can now choose either French or Arabic for syntax error detection.",
-    "Improved window size persistence mechanism."
+    "Improved window size persistence mechanism.",
+    "Resolved minor issues and improved light/dark theme styling."
   ]
 }

@@ -15,6 +15,7 @@
     "Résolution de problèmes mineurs et amélioration du style des thèmes clair/sombre.",
     "Mise à jour de la coloration syntaxique pour une meilleure lisibilité et un style plus clair.",
     "Les boutons d’insertion de fragments de code ont été mis à jour avec un nouveau style amélioré.",
-    "Correction d’un bug où les opérations div et mod ne fonctionnaient pas correctement dans certaines conditions."
+    "Correction d’un bug où les opérations div et mod ne fonctionnaient pas correctement dans certaines conditions.",
+    "Dans l'exécution intégrée, l'exécutio arrête lorsque l'utilisateur clique sur 'Annuler' dans la boîte de saisie."
   ]
 }

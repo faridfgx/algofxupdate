@@ -12,6 +12,7 @@
     "Buttons for inserting code fragments have been updated to a new, enhanced style.",
     "New options available: You can now choose either French or Arabic for syntax error detection with an enhanced window.",
     "Improved window size persistence mechanism.",
-    "Resolved minor issues and improved light/dark theme styling."
+    "Resolved minor issues and improved light/dark theme styling.",
+    "Fixed an issue where AlgoFX would unexpectedly close when editing code."
   ]
 }

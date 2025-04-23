@@ -3,18 +3,17 @@
   "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_3_0setup.exe/file",
   "release_date": "2025-04-25",
   "notes": [
-    "Fixed an issue where AlgoFX would unexpectedly close when editing code.",
-    "Improved syntax error detection capabilities.",
-    "Added a new 'Fix Indentation' button in the toolbar to automatically format your code for better readability.",
-    "Fixed a bug where the code did not compile correctly when using 'fin' instead of 'Fin'.",
-    "New options available: You can now choose either French or Arabic for syntax error detection with an enhanced window.",
-    "Improved algorithm name extraction, even when missing a semicolon (';') after the name.",
-    "Updated the website to clearly indicate that Python and the PATH environment variable are required to run the console option before download.",
-    "Resolved deprecated warning related to the splash screen.",
-    "Improved window size persistence mechanism.",
-    "Resolved minor issues and improved light/dark theme styling.",
-    "Keywords highlighting is being updated for better clarity and style.",
-    "Buttons for inserting code fragments have been updated to a new, enhanced style."
+    "Correction d’un problème où AlgoFX se fermait de manière inattendue lors de l’édition du code.",
+    "Amélioration des capacités de détection des erreurs de syntaxe.",
+    "Ajout d’un nouveau bouton « Corriger l’indentation » dans la barre d’outils pour formater automatiquement votre code pour une meilleure lisibilité.",
+    "Correction d’un bug empêchant la compilation correcte du code lorsqu’on utilisait « fin » au lieu de « Fin ».",
+    "Nouvelles options disponibles : vous pouvez désormais choisir le français ou l’arabe pour la détection des erreurs de syntaxe avec une fenêtre améliorée.",
+    "Amélioration de l’extraction du nom de l’algorithme, même en l’absence d’un point-virgule (« ; ») après le nom.",
+    "Mise à jour du site Web pour indiquer clairement que Python et la variable d’environnement PATH sont requis pour exécuter l’option console avant le téléchargement.",
+    "Correction d’un avertissement de dépréciation lié à l’écran de démarrage.",
+    "Amélioration du mécanisme de persistance de la taille de la fenêtre.",
+    "Résolution de problèmes mineurs et amélioration du style des thèmes clair/sombre.",
+    "Mise à jour de la coloration syntaxique pour une meilleure lisibilité et un style plus clair.",
+    "Les boutons d’insertion de fragments de code ont été mis à jour avec un nouveau style amélioré."
   ]
 }
-

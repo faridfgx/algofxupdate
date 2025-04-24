@@ -3,7 +3,7 @@
   "download_url": "https://www.mediafire.com/file/662c96b8e1gpn4u/AlgoFX1_3_0setup.exe/file",
   "release_date": "2025-04-25",
   "notes": [
-    "Version 1.3.0 Planned24/24/2025",
+    "Version 1.3.0 programmé 24/24/2025",
     "Correction d’un problème où AlgoFX se fermait de manière inattendue lors de l’édition du code avec l'autocompletion activé.",
     "Amélioration des capacités de détection des erreurs de syntaxe.",
     "Ajout d’un nouveau bouton « Corriger l’indentation » dans la barre d’outils pour formater automatiquement votre code pour une meilleure lisibilité.",

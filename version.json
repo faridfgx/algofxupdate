@@ -19,7 +19,7 @@
     "Correction d’un bug où les opérations div et mod ne fonctionnaient pas correctement dans certaines conditions.",
     "Dans l'exécution intégrée, l'exécution s'arrête lorsque l'utilisateur clique sur 'Annuler' dans la boîte de saisie.",
     "L’installation initiale vous permet désormais de configurer l’autocomplétion, le mode d’exécution, la langue des messages (arabe/français) et le mode sombre.",
-    "_";
+    "_",
     "Version 1.2.0 mise à jour de version initial 1.1.0",
     "Now you can open .algo directly by double clicking on them",
     "Drag and drop .algo files on IDE to opens them",

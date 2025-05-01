@@ -1,0 +1,10 @@
+{
+  "version": "1.4.0",
+  "download_url": "",
+  "release_date": "2025-05-30",
+  "notes": [
+    "No need to instal Python and add PATH to variable to execute on console and its a backup in case new console failed.",
+    "Now = and == both are working as equal signs.",
+    ""
+  ]
+}

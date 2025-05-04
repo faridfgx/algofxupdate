@@ -8,6 +8,7 @@
     "Fixed using character instead of caractere.",
     "Now you can activate or deactivate input messages when using the console",
     "Syntax checker now has been enhanced error detection in for loops(Pour).",
-    "Printing now has been enhanced for printing high-quality algorithmes"
+    "Printing now has been enhanced for printing high-quality algorithms",
+    "Syntax help has been updated"
   ]
 }

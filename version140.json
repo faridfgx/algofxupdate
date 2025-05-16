@@ -1,7 +1,7 @@
 {
   "version": "1.4.0",
-  "download_url": "https://www.mediafire.com/file/3xml7i6s18sxpb8/AlgoFX1_3_1.exe/file",
-  "release_date": "2025-05-30",
+  "download_url": "https://www.mediafire.com/file/6jjp4tu9vbmqlp1/AlgoFX140fix54setup.exe/file",
+  "release_date": "2025-05-16",
   "notes": [
     "Pas besoin d’installer Python ni d’ajouter le chemin (PATH) aux variables pour exécuter dans la console, et c’est une sauvegarde au cas où la nouvelle console échouerait.",
     "L’installation initiale vous permet désormais de configurer l’autocomplétion, le mode d’exécution, la langue des messages (arabe/français) et le mode sombre.",
@@ -20,7 +20,6 @@
     "Correction de l’utilisation de “character” au lieu de “caractère”.",
     "L’impression a été améliorée pour l’affichage d’algorithmes de haute qualité.",
     "L’aide à la syntaxe a été mise à jour.",
-    "Mise à jour du site Web pour indiquer clairement que Python et la variable d’environnement PATH sont requis pour exécuter l’option console avant le téléchargement.",
     "Correction d’un avertissement de dépréciation lié à l’écran de démarrage.",
     "Amélioration du mécanisme de persistance de la taille de la fenêtre.",
     "Mise à jour de la coloration syntaxique pour une meilleure lisibilité et un style plus clair.",

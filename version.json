@@ -3,18 +3,17 @@
   "download_url": "https://csdocs.space/algofx/",
   "release_date": "2025-02-01",
   "notes": [
-    "Nouvelle version web compatible avec tous les navigateurs modernes.",
-    "L’application web peut être téléchargée et exécutée hors ligne sur ordinateur (desktop).",
-    "Possibilité d’installer la version web comme application via PWA (Progressive Web App).",
-    "Éditeur de code amélioré avec meilleure lisibilité et performance.",
-    "Exécution complète des algorithmes avec détection des erreurs de syntaxe.",
-    "Fonctionnalité d’autocomplétion intelligente adaptée aux débutants.",
+    "Nouvelle version web d’AlgoFX compatible avec tous les navigateurs modernes (Chrome, Edge, Firefox, etc.).",
+    "L’application peut être téléchargée et utilisée hors ligne sur ordinateur (desktop).",
+    "Possibilité d’installer AlgoFX comme application via PWA (Progressive Web App).",
+    "Éditeur de code avancé conçu pour l’apprentissage des algorithmes.",
+    "Exécution complète des algorithmes avec gestion et affichage des erreurs.",
+    "Exécution pas à pas avec visualisation en temps réel de l’état des variables.",
+    "Fonction d’autocomplétion intelligente adaptée aux débutants.",
     "Fonctions Nouveau / Ouvrir / Enregistrer pour la gestion des fichiers.",
-    "Exécution pas à pas avec visualisation de l’état des variables.",
-    "Bouton d’indentation automatique pour un code plus lisible et mieux structuré.",
+    "Sauvegarde automatique du code permettant de reprendre le travail ultérieurement.",
+    "Bouton d’indentation automatique pour améliorer la lisibilité du code.",
     "23 exemples d’algorithmes prêts à l’emploi et entièrement fonctionnels.",
-    "Aide complète intégrée avec explication détaillée de tous les exemples.",
-    "Sauvegarde automatique du code pour reprendre le travail ultérieurement sans perte."
+    "Aide complète intégrée avec explication détaillée de tous les exemples."
   ]
 }
-

@@ -1,0 +1,30 @@
+{
+  "version": "1.4.0",
+  "download_url": "https://www.mediafire.com/file/6jjp4tu9vbmqlp1/AlgoFX140fix54setup.exe/file",
+  "release_date": "2025-05-16",
+  "notes": [
+    "Pas besoin d’installer Python ni d’ajouter le chemin (PATH) aux variables pour exécuter dans la console, et c’est une sauvegarde au cas où la nouvelle console échouerait.",
+    "L’installation initiale vous permet désormais de configurer l’autocomplétion, le mode d’exécution, la langue des messages (arabe/français) et le mode sombre.",
+    "Mettre à jour l'installateur pour qu'il soit compatible avec les systèmes 32 et 64 bits sous Windows 7, 8, 8.1, 10 et 11.",
+    "Ajout d’un nouveau bouton « Corriger l’indentation » dans la barre d’outils pour formater automatiquement votre code pour une meilleure lisibilité.",
+    "Vous pouvez maintenant activer ou désactiver les messages d’entrée lors de l’utilisation de la console.",
+    "Nouvelles options disponibles : vous pouvez désormais choisir le français ou l’arabe pour la détection des erreurs de syntaxe avec une fenêtre améliorée.",
+    "Le vérificateur de syntaxe a maintenant une détection d’erreurs améliorée dans les boucles for (Pour).",
+    "Amélioration des capacités de détection des erreurs de syntaxe.",
+    "Correction d’un problème où AlgoFX se fermait de manière inattendue lors de l’édition du code avec l'autocomplétion activée.",
+    "Correction d’un bug empêchant la compilation correcte du code lorsqu’on utilisait « fin » au lieu de « Fin ».",
+    "Désormais, = et == fonctionnent tous deux comme des signes d’égalité.",
+    "Correction d’un bug où les opérations div et mod ne fonctionnaient pas correctement dans certaines conditions.",
+    "Amélioration de l’extraction du nom de l’algorithme, même en l’absence d’un point-virgule (« ; ») après le nom.",
+    "Dans l'exécution intégrée, l'exécution s'arrête lorsque l'utilisateur clique sur 'Annuler' dans la boîte de saisie.",
+    "Correction de l’utilisation de “character” au lieu de “caractère”.",
+    "L’impression a été améliorée pour l’affichage d’algorithmes de haute qualité.",
+    "L’aide à la syntaxe a été mise à jour.",
+    "Correction d’un avertissement de dépréciation lié à l’écran de démarrage.",
+    "Amélioration du mécanisme de persistance de la taille de la fenêtre.",
+    "Mise à jour de la coloration syntaxique pour une meilleure lisibilité et un style plus clair.",
+    "Les boutons d’insertion de fragments de code ont été mis à jour avec un nouveau style amélioré.",
+    "Résolution de problèmes mineurs et amélioration du style des thèmes clair/sombre.",
+    "Mises à jour mineures du design et de l’expérience utilisateur."
+  ]
+}
